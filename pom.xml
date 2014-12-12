@@ -46,7 +46,7 @@
     <android.version>4.1.1.4</android.version>
     <android.platform>16</android.platform>
     <android.support.version>r7</android.support.version>
-    <android-maven.version>3.3.0</android-maven.version>
+    <android-maven.version>3.8.0</android-maven.version>
     <java.writer.version>1.0.4</java.writer.version>
   </properties>
 
